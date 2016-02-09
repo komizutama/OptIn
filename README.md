@@ -7,7 +7,7 @@ Sam Kaufman and I built OptIn® at the Stupid Hackathon (www.stupidhackathon.com
 These days a lot of people worry about whether the NSA is watching what they are doing when they work on their computer. The act of worrying can be very stressful and we thought, "What if there was a way to remove that worry?..."
 Well, now you don't have to wonder, you can know that the NSA (and everyone else for that matter) can see everything you've typed in glorious 140 charachter chunks.
 
-We shamelessly stole a lot of the basic keylogger functionality from https://gist.github.com/ljos/3019549 
+We <strike>shamelessly stole</strike> referenced a lot of the basic keylogger functionality from https://gist.github.com/ljos/3019549 
 
 </p>
 
