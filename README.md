@@ -1,6 +1,6 @@
 
 <h1>OptIn®</h1>
-<h2>Making America safer! (Just not you)</h2>
+<h2>Making America safer, Again. Again!</h2>
 <h3>A terrible idea for the third annual<a href="http://www.stupidhackathon.com"> Stupid Hackathon</a></h3>
 <p>
 Sam Kaufman and I built OptIn® at the Stupid Hackathon (www.stupidhackathon.com) under the category, "Cybersecurity."
