@@ -19,12 +19,15 @@ GIVING YOUR LOGIN CREDENTIALS TO THE ENTIRE INTERNET TO USE FOR VARIOUS NEFARIOU
 OR ANY OTHER WAYS YOU MANAGE TO RUIN YOUR LIFE OR ANYONE ELSE'S NOW OR IN THE FUTURE
 USE AT ENTIRELY YOUR OWN DISCRETION and LIABILITY... THIS IS A TERRIBLE TERRIBLE IDEA**
 AGAIN, WE CLAIM ZERO LIABILITY FOR ANYTHING YOU DO WITH THIS, IT IS FOR ENTERTAINMENT PURPOSES ONLY AND IS ENTIRELY AT YOUR OWN RISK.</h5>
-<p>
-1) Just download this
-2)install all the required python packages (preferably sandboxed in a virtual environment), 
-3) enable the terminal or whatever program in universal access.
-4) modify publisher.js as described...
-5) Ruin your life... or someone else's. 
-</p>
+</br>
+<h4>How to Install OptIn®</h4>
+<ol>
+<li>Read license agreement [and reflect on what a terrible idea it is to tweet your keystrokes at the NSA]</li>
+<li>Download OptIn® [and place directly in the trash]</li>
+<li>Install required python packages[preferably sandboxed in a virtual environment, while you're at it sandbox yourself]</li> 
+<li>Enable Terminal or whatever program you access your CLI with in universal access.</li>
+<li>Modify publisher.js as described...</li>
+<li>Ruin your life by revealing all your information like <a href="http://www.newstatesman.com/culture/observations/2015/10/artist-gave-out-all-his-login-details-and-passwords-public-heres-why">this guy</a>.</li>
+</ol>
 
 </body>
